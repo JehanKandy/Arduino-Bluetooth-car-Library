@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Jehan_BT_car
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Jehan_BT_car	KEYWORD1          Jehan_BT_car
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+stop_car		KEYWORD2
+forward_car	KEYWORD2
+backward_car	KEYWORD2
+left_car		KEYWORD2
+right_car		KEYWORD2
+PinSetup		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
