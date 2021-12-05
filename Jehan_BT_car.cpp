@@ -27,7 +27,7 @@ void Jehan_BT_car::stop_car()
     digitalWrite(diode4,LOW);
 }
 
-void Jehan_BT_car:: forward_car(){
+void Jehan_BT_car::forward_car(){
     digitalWrite(diode1,HIGH);
     digitalWrite(diode2,LOW);
     digitalWrite(diode3,HIGH);
